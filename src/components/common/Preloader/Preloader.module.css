@@ -1,0 +1,6 @@
+.imgLoading {
+    height: 200px;
+    width: 900px;
+    object-fit: cover;
+    object-position: center;
+}

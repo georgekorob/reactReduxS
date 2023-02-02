@@ -1,0 +1,16 @@
+.imgUser {
+    width: 100px;
+}
+
+.pageSelected {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.numPagesDiv {
+    text-align: center;
+}
+
+.numPagesDiv span {
+    padding: 5px;
+}

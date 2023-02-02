@@ -1,0 +1,17 @@
+.descriptionBlock {
+    padding: 10px;
+}
+
+.imgProfile {
+    height: 150px;
+    width: 100%;
+    object-fit: cover;
+}
+
+.mainPhoto {
+    max-width: 300px;
+}
+
+.contact {
+    padding-left: 10px;
+}
